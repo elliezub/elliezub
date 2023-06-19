@@ -14,7 +14,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=elliezub&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=elliezub&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
