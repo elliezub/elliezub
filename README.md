@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C#, ASP.NET, and Unity<br>⚡ Fun fact: I love cats and playing League of Legends<br>📫 How to reach me: ellieslife@icloud.com
+🌱 I’m currently learning C#, ASP.NET, and Unity<br>⚡ Fun fact: I love cats and playing League of Legends<br>📫 How to reach me: x.com/elliezub
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elliezubrowski/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/elliezub) 
